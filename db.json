@@ -6,7 +6,7 @@
     },
     {
         "name": "Amit",
-        "inoffice":true
+        "inoffice":false
     },
     {
         "name": "Andrew",
@@ -14,7 +14,7 @@
     },
     {
         "name": "Ben",
-        "inoffice":true
+        "inoffice":false
     },
     {
         "name": "Elizabeth",
@@ -26,11 +26,11 @@
     },
     {
         "name": "Hampton",
-        "inoffice":true
+        "inoffice":false
     },
     {
         "name": "Jason",
-        "inoffice":true
+        "inoffice":false
     },
     {
         "name": "Lainie",
@@ -50,7 +50,7 @@
     },
     {
         "name": "Zac",
-        "inoffice":true
+        "inoffice":false
     }
 ]
 }
