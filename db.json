@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "apple",
+      "price": 25,
+      "category": "fruit"
+    },
+    {
+      "name": "pineapple",
+      "price": 30,
+      "category": "fruit"
+    },
+    {
+      "name": "grapes",
+      "price": 50,
+      "category": "fruit"
+    },
+    {
+      "name": "watermelon",
+      "price": 15,
+      "category": "fruit"
+    },
+    {
+      "name": "tomato",
+      "price": 10,
+      "category": "vegetables"
+    },
+    {
+      "name": "onion",
+      "price": 40,
+      "category": "vegetables"
+    }
+  ]
+}
