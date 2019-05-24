@@ -1,34 +1,54 @@
-{
-  "products": [
+[
     {
-      "name": "apple",
-      "price": 25,
-      "category": "fruit"
+        "name": "Aimee",
+        "inoffice":true
     },
     {
-      "name": "pineapple",
-      "price": 30,
-      "category": "fruit"
+        "name": "Amit",
+        "inoffice":true
     },
     {
-      "name": "grapes",
-      "price": 50,
-      "category": "fruit"
+        "name": "Andrew",
+        "inoffice":true
     },
     {
-      "name": "watermelon",
-      "price": 15,
-      "category": "fruit"
+        "name": "Ben",
+        "inoffice":true
     },
     {
-      "name": "tomato",
-      "price": 10,
-      "category": "vegetables"
+        "name": "Elizabeth",
+        "inoffice":true
     },
     {
-      "name": "onion",
-      "price": 40,
-      "category": "vegetables"
+        "name": "Guil",
+        "inoffice":true
+    },
+    {
+        "name": "Hampton",
+        "inoffice":true
+    },
+    {
+        "name": "Jason",
+        "inoffice":true
+    },
+    {
+        "name": "Lainie",
+        "inoffice":true
+    },
+    {
+        "name": "Kenneth",
+        "inoffice":true
+    },
+    {
+        "name": "Passan",
+        "inoffice":true
+    },
+    {
+        "name": "Shawna",
+        "inoffice":true
+    },
+    {
+        "name": "Zac",
+        "inoffice":true
     }
-  ]
-}
+]
